@@ -38,7 +38,7 @@ const topicsList = [
 class App extends Component {
   state = {
     name: '',
-    topic: 'ARTS_AND_CULTURE',
+    topic: 'Arts and Culture',
     isRegistered: false,
     showError: false,
   }
